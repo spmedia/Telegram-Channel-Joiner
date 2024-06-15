@@ -1,8 +1,10 @@
 # Telegram-Channel-Joiner
 
-A python bot that uses the [Pyrogram API Framework](https://docs.pyrogram.org/) to take a list of Telegram channels and groups and joins them. I really made this to help people doing CTI and OSINT on Telegram to make growing your sock puppet accounts a lot easier.
+A python bot 🤖 that uses the [Pyrogram API Framework](https://docs.pyrogram.org/) to take a list of Telegram channels and groups and joins them. I really made this to help people doing CTI and OSINT on Telegram to make growing your sock puppet accounts a lot easier.
 
-It takes a list of Telegram channels like:
+You will first need to first log into https://my.telegram.org/ and grab your account api id and hash.
+
+This bot takes a list of Telegram channels and groups like:
 
 https://t.me/ButusovPlus
 
