@@ -18,4 +18,4 @@ I put a random delay in between joins of 5 to 20 seconds just so you aint hittin
 
 
 
-Happy hunting and hacking!
+Happy hunting and hacking!  🎯
