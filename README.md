@@ -20,7 +20,7 @@ etc.
 
 and joins your Telegram account to them.
 
-I put a random delay in between joins of 15 to 90 seconds just so you aint hitting rate litmits and shit.
+I put a random delay in between joins of 15 to 90 seconds just so you aint hitting rate limits and shit.
 
 
 
