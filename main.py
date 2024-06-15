@@ -35,7 +35,7 @@ async def join_channels():
                     print(f"Successfully joined {channel_url}")
                 except Exception as e:
                     print(f"Failed to join {channel_url}: {e}")
-                delay = random.randint(5, 20) # I made a random delay in between joining of 5 to 20 sec
+                delay = random.randint(15, 120) # I made a random delay in between joining of 15 to 120 sec
                 time.sleep(delay)
             else:
                 print(f"Invalid URL format: {channel_url}")
