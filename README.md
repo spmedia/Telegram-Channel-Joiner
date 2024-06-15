@@ -1,6 +1,6 @@
 # Telegram-Channel-Joiner
 
-<img src="https://raw.githubusercontent.com/spmedia/Telegram-Channel-Joiner/main/wizard2.jpg" />
+<img src="https://raw.githubusercontent.com/spmedia/Telegram-Channel-Joiner/main/wizard3.jpg" style="width: 75%; height: 75%" />
 
 A python bot 🤖 that uses the [Pyrogram API Framework](https://docs.pyrogram.org/) to take a list of Telegram channels and groups and joins them. I really made this to help people doing CTI and OSINT on Telegram to make growing your sock puppet accounts a lot easier.
 
