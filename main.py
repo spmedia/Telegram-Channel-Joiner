@@ -15,7 +15,7 @@ channels = [
     # Add more channels as needed. These are just some examples bruv.
 ]
 
-# Function to extract the username from the URL
+# Function to extract the username/channel name from the URL
 def extract_username(url):
     match = re.search(r't\.me\/([a-zA-Z0-9_]+)', url)
     if match:
