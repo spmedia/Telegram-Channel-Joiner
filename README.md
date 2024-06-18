@@ -20,7 +20,7 @@ etc.
 
 and joins your Telegram account to them.
 
-I put a random delay in between joins of 15 to 90 seconds just so you aint hitting rate limits and shit.
+I put a random delay in between joins of 35 seconds to 190 seconds just so you aint hitting rate limits and shit. If you try to join too many channels/groups at once it will timeout and make you wait.
 
 
 
