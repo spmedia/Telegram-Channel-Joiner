@@ -20,8 +20,7 @@ etc.
 
 and joins your Telegram account to them.
 
-I put a random delay in between joins of 35 seconds to 190 seconds just so you aint hitting rate limits and shit. If you try to join too many channels/groups at once it will timeout and make you wait. Slow and steady wins the race 🐢
-
+I put a random delay in between joins of 120 seconds to 300 seconds just so you aint hitting rate limits and shit. If you try to join too many channels/groups at once it will timeout and make you wait. Slow and steady wins the race 🐢. This is made to just setup and leave it running overnight and you wake up to being in a ton of channels. You can change the rate limit if you want but you'll hit rate limits. This is like an EZ Bake oven but for lazy CTI nerds like me and Telegram.
 
 
 Happy hunting and hacking my fellow CTI wizards 🧙‍♂️ 🎯
