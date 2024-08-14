@@ -1,5 +1,8 @@
+#!/usr/bin/env python3
+
 import time
 import random
+import re
 from pyrogram import Client
 
 # Replace these with your own values
@@ -29,6 +32,7 @@ async def join_channels():
     async with app:
         for channel_url in channels:
             username = extract_username(channel_url)
+            #username = channel_url
             if username:
                 try:
                     await app.join_chat(username)
