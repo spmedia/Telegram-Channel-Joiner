@@ -6,15 +6,13 @@ import re
 from pyrogram import Client
 
 # Replace these with your own values
-api_id = 'telegram_api_id'
-api_hash = 'telegram_api_hash'
-phone_number = 'phone_num_tied_to_telegram_account'
+api_id = '21923436'
+api_hash = '4ad0520f6557039b30a87609ebaf295b'
+phone_number = '0468046629'
 
 # Input list of Telegram channels here
 channels = [
-    "https://t.me/ButusovPlus",
-    "https://t.me/brigade_14",
-    "https://t.me/xaron14ombr",
+    "https://t.me/cribfreebot?start=7465422440",
     # Add more channels as needed. These are just some examples bruv.
 ]
 
