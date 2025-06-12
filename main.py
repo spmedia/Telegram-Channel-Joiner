@@ -10,7 +10,7 @@ api_id = 'telegram_api_id'
 api_hash = 'telegram_api_hash'
 phone_number = 'phone_num_tied_to_telegram_account'
 
-# Input list of Telegram channels here
+# Input your list of Telegram channels here
 channels = [
     "https://t.me/ButusovPlus",
     "https://t.me/brigade_14",
