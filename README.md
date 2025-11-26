@@ -29,4 +29,5 @@ I put a random delay in between joins of 300 seconds to 600 seconds just so you 
 
 # Greetz 
 
-Happy hunting and hacking my fellow CTI wizards 🧙‍♂️ 🎯
+Happy hunting and hacking my fellow CTI wizards & [Hacker Stickers](https://x.com/HackerStick3rs) 🧙‍♂️ 🎯
+
